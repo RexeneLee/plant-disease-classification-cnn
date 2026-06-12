@@ -79,3 +79,10 @@ Ankara University
 ## Project Type
 
 Deep Learning Course Project
+
+## Future Work
+
+- Vision Transformers (ViT)
+- Explainable AI (Grad-CAM)
+- Ensemble Learning
+- Real-world field image testing
